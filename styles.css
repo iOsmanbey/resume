@@ -41,6 +41,9 @@ h3 {
   position: relative;
   display: flex;
 }
+.resume .about{
+  text-align: center;
+}
 .resume::before {
   content: "";
   width: 100%;
