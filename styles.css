@@ -42,7 +42,7 @@ h3 {
   display: flex;
 }
 .resume .about{
-  text-align: center;
+  text-align: left;
 }
 .resume::before {
   content: "";
