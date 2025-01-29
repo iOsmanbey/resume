@@ -289,6 +289,10 @@ h3 {
 .resume .func .skills-prog ul li, .resume .func .certificates ul li:hover {
   color: #000000;
 }
+.certificates ul li a:hover {
+  color: #000; /* Dark black on hover */
+  font-weight: bold; /* Optional for better visibility */
+}
 .resume .func .skills-prog ul li:hover .skills-bar .bar {
   background: #070707;
   box-shadow: 0 0 0 1px #252424;
